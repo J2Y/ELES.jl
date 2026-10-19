@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software if you use the solver or examples."
+title: "ELES.jl: a differentiable exact solver for layered Ekman flows"
+type: software
+version: 0.1.0
+repository-code: "https://github.com/J2Y/ELES.jl"
+authors:
+  - family-names: Jung
+    given-names: Jaeyoung
+license: MIT
